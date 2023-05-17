@@ -1,4 +1,4 @@
-# challenge-01
+# challenge01
 Bootcamp Challenge: 01<br>
 <br>
 To access the index.html file, go to:<br>
